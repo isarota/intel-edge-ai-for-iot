@@ -1,0 +1,16 @@
+# To ignore specific files
+#config.php
+
+# To ignore specific directories
+.ipynb_checkpoints/
+
+# To ignore files with specific extensions
+#*.styl
+
+# To ignore files with .pyc, .pyo, .pyd extensions
+#.py[cod]
+
+# To ignore log files except error.log files.
+#*.log
+##!errors.log
+
